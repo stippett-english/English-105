@@ -10,4 +10,16 @@ The repository also includes the Python notebook that documents the process for 
 - This data could be used to find trends in student outcomes and graduations rates. By making these obervations 
 ## Data Visualization
 -- The subset created using the process outlined in the Python notebook was slightly altered using Microsoft Excel. Both the original subset and the altered subset for the visual can be found in the files of this repository.
+--Additionally I used matlab to create Graphs showing the correlation and variance below 
 
+### Correlation of Acceptance Rate vs Median Income
+
+![image](https://github.com/user-attachments/assets/c739104e-6b9b-4bd1-ab33-a50f95f107cc)
+
+### Correlation of Student Faculty Ratio to Graduation Rate
+
+![image](https://github.com/user-attachments/assets/9c713957-602e-48ca-a8c1-c1798b78dcaf)
+
+### Correlation of Student Faculty Ratio to Median Income
+
+![image](https://github.com/user-attachments/assets/aded726e-c76a-4abc-a291-1dd49c65a461)
